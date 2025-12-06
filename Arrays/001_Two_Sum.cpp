@@ -4,6 +4,7 @@
 // LeetCode Link: https://leetcode.com/problems/two-sum/
 // Time Complexity: O(n^2)
 // Space Complexity: O(1)
+// Approach: Brute Force Solution
 
 #include <iostream>
 #include <vector>
