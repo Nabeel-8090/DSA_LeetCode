@@ -1,11 +1,8 @@
 // Problem: Pow(x, n)
 // Difficulty: Medium
-// Topic: Array
 // LeetCode Link: https://leetcode.com/problems/powx-n/
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
-
-
 
 #include <iostream>
 using namespace std;
