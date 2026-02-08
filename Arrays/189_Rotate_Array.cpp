@@ -2,9 +2,9 @@
 // Difficulty: Medium
 // Topic: Array
 // LeetCode Link: https://leetcode.com/problems/rotate-array/
-// Time Complexity: O(n^2)
+// Time Complexity: O(n)
 // Space Complexity: O(1)
-// Approach: 
+// Approach: Two Pointers Reverse Technique
 
 #include <iostream>
 #include <vector>
